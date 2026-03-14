@@ -41,3 +41,4 @@ tags
 sys/*/compile
 /src.conf
 rust-wc/target/
+rust-find/target/
